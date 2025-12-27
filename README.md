@@ -1,20 +1,12 @@
-
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Momen+Esam;UI%2FUX+Designer+%26+Frontend+Developer;Designing+%26+Building+User+Experiences" />
+</p>
+
+
 
 # 👋 Hi, I'm Momen Esam
 
-  <a href="mailto:moment.esam15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 
-  <a href="https://www.linkedin.com/in/momen-esam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://www.behance.net/momenesam" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
-  </a>
-</p>
 
 🎨 **UI/UX Designer** | 💻 **Frontend Developer**
 
