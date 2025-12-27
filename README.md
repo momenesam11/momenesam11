@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=5A7ACD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Momen+Esam;UI%2FUX+Designer+%26+Frontend+Developer;Designing+%26+Building+User+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=5A7ACD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Momen+Esam;UI%2FUX+Designer+%26+Frontend+Developer;Designing+%26+Building+User+Experiences" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=momen-esam&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+
 
 # 👋 Hi, I'm Momen Esam
 
