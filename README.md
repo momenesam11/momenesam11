@@ -90,9 +90,20 @@ I specialize in designing clean, user-centered interfaces and bringing them to l
 ---
 
 ## 📫 Let’s Connect
-- 📧 Email: moment.esam15@gmail.com
-- 🔗 LinkedIn: linkedin.com/in/momen-esam
-- 🎨 Behance: behance.net/momenesam
+
+<p align="center">
+  <a href="mailto:moment.esam15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/momen-esam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.behance.net/momenesam" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
