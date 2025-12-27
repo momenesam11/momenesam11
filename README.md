@@ -1,4 +1,20 @@
+
+<p
 # 👋 Hi, I'm Momen Esam
+
+ align="center">
+  <a href="mailto:moment.esam15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/momen-esam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.behance.net/momenesam" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+  </a>
+</p>
 
 🎨 **UI/UX Designer** | 💻 **Frontend Developer**
 
